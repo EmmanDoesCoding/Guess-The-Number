@@ -1,1 +1,2 @@
-# Guess-The-Number-Java-Version
+# Guess-The-Number
+Available in both Python and Java
